@@ -1,4 +1,4 @@
 markdown: kramdown
-style: notion-light-enhanced
+style: :compressed
 title: "resume"
-site.google_analytics_id: "G-GLXZ3M346G"
+google_analytics: "G-GLXZ3M346G"
